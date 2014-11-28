@@ -1,4 +1,4 @@
-travelly
+Travelly
 ========
 
 PhoneGap by Example
