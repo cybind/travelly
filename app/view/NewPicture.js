@@ -45,6 +45,13 @@ Ext.define('Travelly.view.NewPicture', {
                         flex: 1
                     },
                     {
+                        xtype: 'label',
+                        id: 'progressLabel',
+                        html: '',
+                        width: '90%',
+                        margin: '5 0 0 0'
+                    },
+                    {
                         xtype: 'container',
                         flex: 1,
                         layout: {
@@ -72,7 +79,7 @@ Ext.define('Travelly.view.NewPicture', {
                             {
                                 xtype: 'button',
                                 id: 'cancelPhotoBtn',
-                                text: 'Cancel',
+                                text: 'Close',
                                 iconCls: 'delete',
                                 flext: 1,
                                 margin: '0 5 0 5'

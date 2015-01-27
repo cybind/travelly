@@ -187,6 +187,27 @@ module.exports = [
             "cordova"
         ],
         "runs": true
+    },
+    {
+        "file": "plugins/org.apache.cordova.file-transfer/www/FileTransferError.js",
+        "id": "org.apache.cordova.file-transfer.FileTransferError",
+        "clobbers": [
+            "window.FileTransferError"
+        ]
+    },
+    {
+        "file": "plugins/org.apache.cordova.file-transfer/www/FileTransfer.js",
+        "id": "org.apache.cordova.file-transfer.FileTransfer",
+        "clobbers": [
+            "window.FileTransfer"
+        ]
+    },
+    {
+        "file": "plugins/org.apache.cordova.inappbrowser/www/inappbrowser.js",
+        "id": "org.apache.cordova.inappbrowser.inappbrowser",
+        "clobbers": [
+            "window.open"
+        ]
     }
 ];
 module.exports.metadata = 
@@ -196,7 +217,9 @@ module.exports.metadata =
     "org.apache.cordova.camera": "0.3.4",
     "org.apache.cordova.statusbar": "0.1.9",
     "org.apache.cordova.geolocation": "0.3.11",
-    "org.apache.cordova.file": "1.3.2"
+    "org.apache.cordova.file": "1.3.2",
+    "org.apache.cordova.file-transfer": "0.4.8",
+    "org.apache.cordova.inappbrowser": "0.5.4"
 }
 // BOTTOM OF METADATA
 });

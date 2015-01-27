@@ -65,7 +65,36 @@ Ext.define('Travelly.view.Main', {
                         height: '100%'
                     }                    
                 ]
+            },
+            {
+                title: 'Settings',
+                iconCls: 'settings',
+
+                items: [
+                    {
+                        docked: 'top',
+                        xtype: 'titlebar',
+                        title: 'Settings'
+                    },
+                    {
+                        xtype: 'button',
+                        id: 'loginBtn',
+                        text: 'Login',
+                        iconCls: 'user',
+                        margin: 5
+                    },
+                    {
+                        xtype: 'button',
+                        id: 'logoutBtn',
+                        text: 'Logout',
+                        iconCls: 'user',
+                        margin: 5,
+                        hidden: true
+                    }
+
+                ]
             }
+
         ]
     }
 });

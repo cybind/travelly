@@ -114,3 +114,464 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-01-08 23:35:44.001 Travelly[50573:1033744] locationManager::didFailWithError (null)
 2015-01-08 23:35:46.735 Travelly[50573:1033744] Camera.getPicture: source type 1 not available.
 2015-01-08 23:35:48.835 Travelly[50573:1033744] THREAD WARNING: ['Camera'] took '2100.332764' ms. Plugin should use a background thread.
+2015-01-21 23:35:05.213 Travelly[29047:4956279] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Data/Application/8C597C45-9214-4ED7-8AD1-A43F6DCA5BBA/Library/Cookies/Cookies.binarycookies
+2015-01-21 23:35:05.444 Travelly[29047:4956279] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-21 23:35:05.445 Travelly[29047:4956279] Multi-tasking -> Device: YES, App: YES
+2015-01-21 23:35:05.457 Travelly[29047:4956279] Unlimited access to network resources
+2015-01-21 23:35:05.467 Travelly[29047:4956279] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-21 23:35:05.954 Travelly[29047:4956279] [CDVTimer][statusbar] 111.962020ms
+2015-01-21 23:35:05.964 Travelly[29047:4956279] [CDVTimer][file] 9.460986ms
+2015-01-21 23:35:05.964 Travelly[29047:4956279] [CDVTimer][TotalPluginStartup] 121.701002ms
+2015-01-21 23:35:06.099 Travelly[29047:4956279] Resetting plugins due to page load.
+2015-01-21 23:35:06.427 Travelly[29047:4956279] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Bundle/Application/E06405D8-6400-4C87-9C82-E8FB31987F1D/Travelly.app/www/index.html
+2015-01-21 23:35:06.566 Travelly[29047:4956279] locationManager::didFailWithError (null)
+2015-01-21 23:35:38.656 Travelly[29047:4956279] Camera.getPicture: source type 1 not available.
+2015-01-21 23:35:40.631 Travelly[29047:4956279] THREAD WARNING: ['Camera'] took '1976.870850' ms. Plugin should use a background thread.
+2015-01-26 00:46:58.447 Travelly[22507:6519954] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Data/Application/D1C5E4D4-D614-4633-80BA-65820DA0972F/Library/Cookies/Cookies.binarycookies
+2015-01-26 00:46:58.665 Travelly[22507:6519954] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-26 00:46:58.666 Travelly[22507:6519954] Multi-tasking -> Device: YES, App: YES
+2015-01-26 00:46:58.677 Travelly[22507:6519954] Unlimited access to network resources
+2015-01-26 00:46:58.686 Travelly[22507:6519954] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-26 00:46:59.141 Travelly[22507:6519954] [CDVTimer][statusbar] 105.746984ms
+2015-01-26 00:46:59.152 Travelly[22507:6519954] [CDVTimer][file] 10.614991ms
+2015-01-26 00:46:59.152 Travelly[22507:6519954] [CDVTimer][TotalPluginStartup] 116.641998ms
+2015-01-26 00:46:59.283 Travelly[22507:6519954] Resetting plugins due to page load.
+2015-01-26 00:46:59.661 Travelly[22507:6519954] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Bundle/Application/0FDC554B-672E-4FA4-8F4E-8DF1715BA218/Travelly.app/www/index.html
+2015-01-26 00:46:59.774 Travelly[22507:6519954] locationManager::didFailWithError (null)
+2015-01-26 00:47:01.877 Travelly[22507:6519954] THREAD WARNING: ['InAppBrowser'] took '161.156250' ms. Plugin should use a background thread.
+2015-01-26 00:48:08.663 Travelly[23153:6522537] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Data/Application/35D7D8A0-26D1-46C1-BA38-E6EF901089C3/Library/Cookies/Cookies.binarycookies
+2015-01-26 00:48:08.729 Travelly[23153:6522537] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-26 00:48:08.729 Travelly[23153:6522537] Multi-tasking -> Device: YES, App: YES
+2015-01-26 00:48:08.730 Travelly[23153:6522537] Unlimited access to network resources
+2015-01-26 00:48:08.733 Travelly[23153:6522537] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-26 00:48:08.886 Travelly[23153:6522537] [CDVTimer][statusbar] 21.080017ms
+2015-01-26 00:48:08.889 Travelly[23153:6522537] [CDVTimer][file] 2.104998ms
+2015-01-26 00:48:08.889 Travelly[23153:6522537] [CDVTimer][TotalPluginStartup] 23.466945ms
+2015-01-26 00:48:08.953 Travelly[23153:6522537] Resetting plugins due to page load.
+2015-01-26 00:48:09.130 Travelly[23153:6522537] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Bundle/Application/193F356D-0BFD-4A65-AC9D-79D0C4344B71/Travelly.app/www/index.html
+2015-01-26 00:48:09.237 Travelly[23153:6522537] locationManager::didFailWithError (null)
+2015-01-26 00:48:10.752 Travelly[23153:6522537] THREAD WARNING: ['InAppBrowser'] took '128.237793' ms. Plugin should use a background thread.
+2015-01-26 15:13:16.068 Travelly[28425:6648540] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Data/Application/EC31F166-AEAB-4187-88D0-9DA884877614/Library/Cookies/Cookies.binarycookies
+2015-01-26 15:13:16.284 Travelly[28425:6648540] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-26 15:13:16.284 Travelly[28425:6648540] Multi-tasking -> Device: YES, App: YES
+2015-01-26 15:13:16.300 Travelly[28425:6648540] Unlimited access to network resources
+2015-01-26 15:13:16.309 Travelly[28425:6648540] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-26 15:13:16.760 Travelly[28425:6648540] [CDVTimer][statusbar] 106.207013ms
+2015-01-26 15:13:16.768 Travelly[28425:6648540] [CDVTimer][file] 8.414030ms
+2015-01-26 15:13:16.769 Travelly[28425:6648540] [CDVTimer][TotalPluginStartup] 114.905953ms
+2015-01-26 15:13:16.900 Travelly[28425:6648540] Resetting plugins due to page load.
+2015-01-26 15:13:17.221 Travelly[28425:6648540] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Bundle/Application/5C8CC349-BA26-402A-9586-A53E49559C86/Travelly.app/www/index.html
+2015-01-26 15:13:17.353 Travelly[28425:6648540] locationManager::didFailWithError (null)
+2015-01-26 17:09:18.135 Travelly[28425:6648540] THREAD WARNING: ['InAppBrowser'] took '181.610840' ms. Plugin should use a background thread.
+2015-01-26 17:21:39.008 Travelly[30355:6794905] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Data/Application/F1C895C2-B2FB-4B50-98A2-1ADF6B37BBCF/Library/Cookies/Cookies.binarycookies
+2015-01-26 17:21:39.085 Travelly[30355:6794905] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-26 17:21:39.086 Travelly[30355:6794905] Multi-tasking -> Device: YES, App: YES
+2015-01-26 17:21:39.087 Travelly[30355:6794905] Unlimited access to network resources
+2015-01-26 17:21:39.089 Travelly[30355:6794905] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-26 17:21:39.272 Travelly[30355:6794905] [CDVTimer][statusbar] 47.168970ms
+2015-01-26 17:21:39.275 Travelly[30355:6794905] [CDVTimer][file] 2.903998ms
+2015-01-26 17:21:39.276 Travelly[30355:6794905] [CDVTimer][TotalPluginStartup] 50.329030ms
+2015-01-26 17:21:39.354 Travelly[30355:6794905] Resetting plugins due to page load.
+2015-01-26 17:21:39.529 Travelly[30355:6794905] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Bundle/Application/FD6B5A14-0B80-48D9-B521-30BEA0EE28D5/Travelly.app/www/index.html
+2015-01-26 17:21:39.639 Travelly[30355:6794905] locationManager::didFailWithError (null)
+2015-01-26 17:22:51.469 Travelly[30981:6798170] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Data/Application/2707C7E4-DDE6-4BBD-B0E4-8E996DF21767/Library/Cookies/Cookies.binarycookies
+2015-01-26 17:22:51.544 Travelly[30981:6798170] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-26 17:22:51.544 Travelly[30981:6798170] Multi-tasking -> Device: YES, App: YES
+2015-01-26 17:22:51.546 Travelly[30981:6798170] Unlimited access to network resources
+2015-01-26 17:22:51.548 Travelly[30981:6798170] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-26 17:22:51.697 Travelly[30981:6798170] [CDVTimer][statusbar] 15.805006ms
+2015-01-26 17:22:51.699 Travelly[30981:6798170] [CDVTimer][file] 2.102017ms
+2015-01-26 17:22:51.699 Travelly[30981:6798170] [CDVTimer][TotalPluginStartup] 18.197000ms
+2015-01-26 17:22:51.796 Travelly[30981:6798170] Resetting plugins due to page load.
+2015-01-26 17:22:51.976 Travelly[30981:6798170] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Bundle/Application/7356885A-2D98-47DC-AF2C-6172F229C4D7/Travelly.app/www/index.html
+2015-01-26 17:22:52.084 Travelly[30981:6798170] locationManager::didFailWithError (null)
+2015-01-26 17:22:58.813 Travelly[30981:6798170] THREAD WARNING: ['InAppBrowser'] took '136.863037' ms. Plugin should use a background thread.
+2015-01-26 17:34:05.376 Travelly[31741:6815884] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Data/Application/82BFCEF4-65B6-4399-8D64-460D99126838/Library/Cookies/Cookies.binarycookies
+2015-01-26 17:34:05.446 Travelly[31741:6815884] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-26 17:34:05.446 Travelly[31741:6815884] Multi-tasking -> Device: YES, App: YES
+2015-01-26 17:34:05.447 Travelly[31741:6815884] Unlimited access to network resources
+2015-01-26 17:34:05.449 Travelly[31741:6815884] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-26 17:34:05.610 Travelly[31741:6815884] [CDVTimer][statusbar] 15.944004ms
+2015-01-26 17:34:05.612 Travelly[31741:6815884] [CDVTimer][file] 2.075016ms
+2015-01-26 17:34:05.613 Travelly[31741:6815884] [CDVTimer][TotalPluginStartup] 18.325031ms
+2015-01-26 17:34:05.692 Travelly[31741:6815884] Resetting plugins due to page load.
+2015-01-26 17:34:05.886 Travelly[31741:6815884] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Bundle/Application/39F0E1B1-0E8F-465F-AB3F-5775622E3979/Travelly.app/www/index.html
+2015-01-26 17:34:06.003 Travelly[31741:6815884] locationManager::didFailWithError (null)
+2015-01-26 17:34:22.957 Travelly[31741:6815884] THREAD WARNING: ['InAppBrowser'] took '130.098145' ms. Plugin should use a background thread.
+2015-01-26 17:36:27.613 Travelly[32382:6821316] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Data/Application/84E3489F-119E-4A1F-B851-79700D452FD9/Library/Cookies/Cookies.binarycookies
+2015-01-26 17:36:27.695 Travelly[32382:6821316] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-26 17:36:27.696 Travelly[32382:6821316] Multi-tasking -> Device: YES, App: YES
+2015-01-26 17:36:27.697 Travelly[32382:6821316] Unlimited access to network resources
+2015-01-26 17:36:27.699 Travelly[32382:6821316] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-26 17:36:27.903 Travelly[32382:6821316] [CDVTimer][statusbar] 18.803000ms
+2015-01-26 17:36:27.906 Travelly[32382:6821316] [CDVTimer][file] 2.999008ms
+2015-01-26 17:36:27.906 Travelly[32382:6821316] [CDVTimer][TotalPluginStartup] 22.127032ms
+2015-01-26 17:36:27.987 Travelly[32382:6821316] Resetting plugins due to page load.
+2015-01-26 17:36:28.286 Travelly[32382:6821316] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Bundle/Application/20F75159-A8A1-4D85-8723-D3672FEE8CE1/Travelly.app/www/index.html
+2015-01-26 17:36:28.463 Travelly[32382:6821316] locationManager::didFailWithError (null)
+2015-01-26 17:36:54.629 Travelly[32382:6821316] THREAD WARNING: ['InAppBrowser'] took '135.819824' ms. Plugin should use a background thread.
+2015-01-26 17:38:14.200 Travelly[33018:6825539] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Data/Application/6AFC7A29-60F7-4513-BBDA-EA8A962C67D6/Library/Cookies/Cookies.binarycookies
+2015-01-26 17:38:14.268 Travelly[33018:6825539] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-26 17:38:14.269 Travelly[33018:6825539] Multi-tasking -> Device: YES, App: YES
+2015-01-26 17:38:14.270 Travelly[33018:6825539] Unlimited access to network resources
+2015-01-26 17:38:14.272 Travelly[33018:6825539] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-26 17:38:14.451 Travelly[33018:6825539] [CDVTimer][statusbar] 16.793013ms
+2015-01-26 17:38:14.453 Travelly[33018:6825539] [CDVTimer][file] 2.007961ms
+2015-01-26 17:38:14.453 Travelly[33018:6825539] [CDVTimer][TotalPluginStartup] 19.064963ms
+2015-01-26 17:38:14.546 Travelly[33018:6825539] Resetting plugins due to page load.
+2015-01-26 17:38:14.962 Travelly[33018:6825539] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Bundle/Application/E817CD84-7824-4AFF-A031-ED0B2936D668/Travelly.app/www/index.html
+2015-01-26 17:38:15.098 Travelly[33018:6825539] locationManager::didFailWithError (null)
+2015-01-26 17:38:33.966 Travelly[33018:6825539] THREAD WARNING: ['InAppBrowser'] took '128.551025' ms. Plugin should use a background thread.
+2015-01-26 17:40:02.804 Travelly[33637:6829904] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Data/Application/789A99AC-2060-49E5-A326-64C8103A40DC/Library/Cookies/Cookies.binarycookies
+2015-01-26 17:40:02.873 Travelly[33637:6829904] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-26 17:40:02.873 Travelly[33637:6829904] Multi-tasking -> Device: YES, App: YES
+2015-01-26 17:40:02.875 Travelly[33637:6829904] Unlimited access to network resources
+2015-01-26 17:40:02.877 Travelly[33637:6829904] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-26 17:40:03.072 Travelly[33637:6829904] [CDVTimer][statusbar] 16.830027ms
+2015-01-26 17:40:03.074 Travelly[33637:6829904] [CDVTimer][file] 2.070010ms
+2015-01-26 17:40:03.074 Travelly[33637:6829904] [CDVTimer][TotalPluginStartup] 19.192994ms
+2015-01-26 17:40:03.180 Travelly[33637:6829904] Resetting plugins due to page load.
+2015-01-26 17:40:03.585 Travelly[33637:6829904] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Bundle/Application/6A3CB08E-2CCE-4BB3-A651-97E1972B2E0E/Travelly.app/www/index.html
+2015-01-26 17:40:03.754 Travelly[33637:6829904] THREAD WARNING: ['Geolocation'] took '10.259033' ms. Plugin should use a background thread.
+2015-01-26 17:40:03.756 Travelly[33637:6829904] locationManager::didFailWithError (null)
+2015-01-26 17:58:56.045 Travelly[33637:6829904] THREAD WARNING: ['InAppBrowser'] took '130.569092' ms. Plugin should use a background thread.
+2015-01-26 18:03:21.177 Travelly[34444:6862213] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Data/Application/81550C3C-621F-45A9-8C40-C7DEB05B2A50/Library/Cookies/Cookies.binarycookies
+2015-01-26 18:03:21.251 Travelly[34444:6862213] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-26 18:03:21.252 Travelly[34444:6862213] Multi-tasking -> Device: YES, App: YES
+2015-01-26 18:03:21.253 Travelly[34444:6862213] Unlimited access to network resources
+2015-01-26 18:03:21.256 Travelly[34444:6862213] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-26 18:03:21.468 Travelly[34444:6862213] [CDVTimer][statusbar] 41.164994ms
+2015-01-26 18:03:21.471 Travelly[34444:6862213] [CDVTimer][file] 2.605975ms
+2015-01-26 18:03:21.471 Travelly[34444:6862213] [CDVTimer][TotalPluginStartup] 44.084966ms
+2015-01-26 18:03:21.533 Travelly[34444:6862213] Resetting plugins due to page load.
+2015-01-26 18:03:21.803 Travelly[34444:6862213] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Bundle/Application/DC712B70-2315-4CCC-9B6F-C960F7B9F318/Travelly.app/www/index.html
+2015-01-26 18:03:21.981 Travelly[34444:6862213] locationManager::didFailWithError (null)
+2015-01-26 18:03:51.884 Travelly[34444:6862213] THREAD WARNING: ['InAppBrowser'] took '132.996094' ms. Plugin should use a background thread.
+2015-01-26 18:05:48.266 Travelly[35082:6867776] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Data/Application/6796331E-4A44-40F3-BB97-F0987255F5F6/Library/Cookies/Cookies.binarycookies
+2015-01-26 18:05:48.337 Travelly[35082:6867776] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-26 18:05:48.338 Travelly[35082:6867776] Multi-tasking -> Device: YES, App: YES
+2015-01-26 18:05:48.339 Travelly[35082:6867776] Unlimited access to network resources
+2015-01-26 18:05:48.342 Travelly[35082:6867776] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-26 18:05:48.559 Travelly[35082:6867776] [CDVTimer][statusbar] 17.648995ms
+2015-01-26 18:05:48.561 Travelly[35082:6867776] [CDVTimer][file] 1.962006ms
+2015-01-26 18:05:48.561 Travelly[35082:6867776] [CDVTimer][TotalPluginStartup] 19.860983ms
+2015-01-26 18:05:48.673 Travelly[35082:6867776] Resetting plugins due to page load.
+2015-01-26 18:05:48.930 Travelly[35082:6867776] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Bundle/Application/301C9A4E-6B51-40B0-8099-5AC1ADA73B16/Travelly.app/www/index.html
+2015-01-26 18:05:49.066 Travelly[35082:6867776] locationManager::didFailWithError (null)
+2015-01-26 18:06:07.671 Travelly[35082:6867776] THREAD WARNING: ['InAppBrowser'] took '133.434814' ms. Plugin should use a background thread.
+2015-01-26 18:06:23.848 Travelly[35082:6867776] THREAD WARNING: ['InAppBrowser'] took '107.867920' ms. Plugin should use a background thread.
+2015-01-26 18:44:38.435 Travelly[36013:6919589] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Data/Application/F630739E-8A76-4625-B2F9-044D0D4B9A2E/Library/Cookies/Cookies.binarycookies
+2015-01-26 18:44:38.506 Travelly[36013:6919589] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-26 18:44:38.506 Travelly[36013:6919589] Multi-tasking -> Device: YES, App: YES
+2015-01-26 18:44:38.508 Travelly[36013:6919589] Unlimited access to network resources
+2015-01-26 18:44:38.510 Travelly[36013:6919589] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-26 18:44:38.701 Travelly[36013:6919589] [CDVTimer][statusbar] 51.465034ms
+2015-01-26 18:44:38.705 Travelly[36013:6919589] [CDVTimer][file] 3.437996ms
+2015-01-26 18:44:38.705 Travelly[36013:6919589] [CDVTimer][TotalPluginStartup] 55.172980ms
+2015-01-26 18:44:38.812 Travelly[36013:6919589] Resetting plugins due to page load.
+2015-01-26 18:44:39.184 Travelly[36013:6919589] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Bundle/Application/153B2A90-7749-4285-B795-6C50FF9E017D/Travelly.app/www/index.html
+2015-01-26 18:44:39.375 Travelly[36013:6919589] locationManager::didFailWithError (null)
+2015-01-26 18:46:18.328 Travelly[36663:6923695] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Data/Application/661D5ADA-5E3C-45FC-805A-3F359F397614/Library/Cookies/Cookies.binarycookies
+2015-01-26 18:46:18.406 Travelly[36663:6923695] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-26 18:46:18.406 Travelly[36663:6923695] Multi-tasking -> Device: YES, App: YES
+2015-01-26 18:46:18.408 Travelly[36663:6923695] Unlimited access to network resources
+2015-01-26 18:46:18.410 Travelly[36663:6923695] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-26 18:46:18.600 Travelly[36663:6923695] [CDVTimer][statusbar] 18.892050ms
+2015-01-26 18:46:18.603 Travelly[36663:6923695] [CDVTimer][file] 2.714992ms
+2015-01-26 18:46:18.603 Travelly[36663:6923695] [CDVTimer][TotalPluginStartup] 21.973968ms
+2015-01-26 18:46:18.688 Travelly[36663:6923695] Resetting plugins due to page load.
+2015-01-26 18:46:19.255 Travelly[36663:6923695] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Bundle/Application/BC0DCCA5-8402-4DBE-9596-DBB5193ED41A/Travelly.app/www/index.html
+2015-01-26 18:46:19.437 Travelly[36663:6923695] locationManager::didFailWithError (null)
+2015-01-26 18:48:41.638 Travelly[36663:6923695] THREAD WARNING: ['InAppBrowser'] took '136.175049' ms. Plugin should use a background thread.
+2015-01-26 18:50:56.437 Travelly[37300:6931455] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Data/Application/B12B0C00-7BC7-499C-9ED5-464F03B69627/Library/Cookies/Cookies.binarycookies
+2015-01-26 18:50:56.505 Travelly[37300:6931455] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-26 18:50:56.505 Travelly[37300:6931455] Multi-tasking -> Device: YES, App: YES
+2015-01-26 18:50:56.506 Travelly[37300:6931455] Unlimited access to network resources
+2015-01-26 18:50:56.509 Travelly[37300:6931455] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-26 18:50:56.685 Travelly[37300:6931455] [CDVTimer][statusbar] 18.006027ms
+2015-01-26 18:50:56.687 Travelly[37300:6931455] [CDVTimer][file] 2.201974ms
+2015-01-26 18:50:56.687 Travelly[37300:6931455] [CDVTimer][TotalPluginStartup] 20.501018ms
+2015-01-26 18:50:56.771 Travelly[37300:6931455] Resetting plugins due to page load.
+2015-01-26 18:50:57.126 Travelly[37300:6931455] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Bundle/Application/67131A16-3598-4C33-8925-72DDA15CA9CA/Travelly.app/www/index.html
+2015-01-26 18:50:57.300 Travelly[37300:6931455] locationManager::didFailWithError (null)
+2015-01-26 18:51:39.352 Travelly[37300:6931455] THREAD WARNING: ['InAppBrowser'] took '131.713135' ms. Plugin should use a background thread.
+2015-01-26 18:51:51.884 Travelly[37300:6931455] THREAD WARNING: ['InAppBrowser'] took '107.504883' ms. Plugin should use a background thread.
+2015-01-26 18:53:04.098 Travelly[37923:6936266] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Data/Application/E27751AF-3797-4DE7-84B7-F3F34C321C2C/Library/Cookies/Cookies.binarycookies
+2015-01-26 18:53:04.174 Travelly[37923:6936266] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-26 18:53:04.175 Travelly[37923:6936266] Multi-tasking -> Device: YES, App: YES
+2015-01-26 18:53:04.176 Travelly[37923:6936266] Unlimited access to network resources
+2015-01-26 18:53:04.178 Travelly[37923:6936266] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-26 18:53:04.369 Travelly[37923:6936266] [CDVTimer][statusbar] 17.255008ms
+2015-01-26 18:53:04.372 Travelly[37923:6936266] [CDVTimer][file] 2.425015ms
+2015-01-26 18:53:04.372 Travelly[37923:6936266] [CDVTimer][TotalPluginStartup] 20.002961ms
+2015-01-26 18:53:04.476 Travelly[37923:6936266] Resetting plugins due to page load.
+2015-01-26 18:53:04.958 Travelly[37923:6936266] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Bundle/Application/72BDCC32-43EF-4E1B-B153-FC2622FDDF7F/Travelly.app/www/index.html
+2015-01-26 18:53:05.110 Travelly[37923:6936266] locationManager::didFailWithError (null)
+2015-01-26 18:53:18.985 Travelly[37923:6936266] THREAD WARNING: ['InAppBrowser'] took '128.899902' ms. Plugin should use a background thread.
+2015-01-26 18:54:30.412 Travelly[38538:6939967] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Data/Application/F513D162-01D8-4E81-9161-EE18F7ACAA7B/Library/Cookies/Cookies.binarycookies
+2015-01-26 18:54:30.482 Travelly[38538:6939967] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-26 18:54:30.483 Travelly[38538:6939967] Multi-tasking -> Device: YES, App: YES
+2015-01-26 18:54:30.484 Travelly[38538:6939967] Unlimited access to network resources
+2015-01-26 18:54:30.486 Travelly[38538:6939967] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-26 18:54:30.669 Travelly[38538:6939967] [CDVTimer][statusbar] 18.063962ms
+2015-01-26 18:54:30.671 Travelly[38538:6939967] [CDVTimer][file] 2.107978ms
+2015-01-26 18:54:30.671 Travelly[38538:6939967] [CDVTimer][TotalPluginStartup] 20.480037ms
+2015-01-26 18:54:30.756 Travelly[38538:6939967] Resetting plugins due to page load.
+2015-01-26 18:54:31.125 Travelly[38538:6939967] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Bundle/Application/015DFDE5-0476-426A-A4C1-DC05F6F3BBC4/Travelly.app/www/index.html
+2015-01-26 18:54:31.386 Travelly[38538:6939967] THREAD WARNING: ['Geolocation'] took '80.054932' ms. Plugin should use a background thread.
+2015-01-26 18:54:31.388 Travelly[38538:6939967] locationManager::didFailWithError (null)
+2015-01-26 18:56:45.698 Travelly[38538:6939967] THREAD WARNING: ['InAppBrowser'] took '132.673096' ms. Plugin should use a background thread.
+2015-01-26 22:41:16.167 Travelly[2331:11802] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Data/Application/72274EEA-BC58-494A-9D4D-450C134B843C/Library/Cookies/Cookies.binarycookies
+2015-01-26 22:41:16.391 Travelly[2331:11802] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-26 22:41:16.392 Travelly[2331:11802] Multi-tasking -> Device: YES, App: YES
+2015-01-26 22:41:16.406 Travelly[2331:11802] Unlimited access to network resources
+2015-01-26 22:41:16.415 Travelly[2331:11802] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-26 22:41:16.913 Travelly[2331:11802] [CDVTimer][statusbar] 132.364988ms
+2015-01-26 22:41:16.921 Travelly[2331:11802] [CDVTimer][file] 7.974029ms
+2015-01-26 22:41:16.921 Travelly[2331:11802] [CDVTimer][TotalPluginStartup] 140.621006ms
+2015-01-26 22:41:17.085 Travelly[2331:11802] Resetting plugins due to page load.
+2015-01-26 22:41:17.859 Travelly[2331:11802] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Bundle/Application/0EF58852-83A5-4C86-BB2E-D47170F2B96A/Travelly.app/www/index.html
+2015-01-26 22:41:17.992 Travelly[2331:11802] locationManager::didFailWithError (null)
+2015-01-26 23:59:36.396 Travelly[2331:11802] THREAD WARNING: ['InAppBrowser'] took '162.520752' ms. Plugin should use a background thread.
+2015-01-27 00:00:54.300 Travelly[3857:44250] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Data/Application/5AD3DEF8-2F05-45B5-B4F3-98C26697CC47/Library/Cookies/Cookies.binarycookies
+2015-01-27 00:00:54.367 Travelly[3857:44250] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-27 00:00:54.367 Travelly[3857:44250] Multi-tasking -> Device: YES, App: YES
+2015-01-27 00:00:54.368 Travelly[3857:44250] Unlimited access to network resources
+2015-01-27 00:00:54.370 Travelly[3857:44250] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-27 00:00:54.542 Travelly[3857:44250] [CDVTimer][statusbar] 17.086029ms
+2015-01-27 00:00:54.545 Travelly[3857:44250] [CDVTimer][file] 2.805054ms
+2015-01-27 00:00:54.545 Travelly[3857:44250] [CDVTimer][TotalPluginStartup] 20.197988ms
+2015-01-27 00:00:54.613 Travelly[3857:44250] Resetting plugins due to page load.
+2015-01-27 00:00:54.874 Travelly[3857:44250] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Bundle/Application/162AF680-DBC5-437B-9DFC-50C149683100/Travelly.app/www/index.html
+2015-01-27 00:00:55.050 Travelly[3857:44250] locationManager::didFailWithError (null)
+2015-01-27 00:01:00.905 Travelly[3857:44250] THREAD WARNING: ['InAppBrowser'] took '134.044922' ms. Plugin should use a background thread.
+2015-01-27 00:03:12.291 Travelly[4497:46781] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Data/Application/23079989-642B-4DC8-9BC0-507BAA255179/Library/Cookies/Cookies.binarycookies
+2015-01-27 00:03:12.365 Travelly[4497:46781] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-27 00:03:12.365 Travelly[4497:46781] Multi-tasking -> Device: YES, App: YES
+2015-01-27 00:03:12.366 Travelly[4497:46781] Unlimited access to network resources
+2015-01-27 00:03:12.369 Travelly[4497:46781] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-27 00:03:12.532 Travelly[4497:46781] [CDVTimer][statusbar] 17.307997ms
+2015-01-27 00:03:12.534 Travelly[4497:46781] [CDVTimer][file] 2.153039ms
+2015-01-27 00:03:12.535 Travelly[4497:46781] [CDVTimer][TotalPluginStartup] 19.739985ms
+2015-01-27 00:03:12.611 Travelly[4497:46781] Resetting plugins due to page load.
+2015-01-27 00:03:13.008 Travelly[4497:46781] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Bundle/Application/6B1DB0AF-21C4-4ECF-AA14-93A09B9B7DD6/Travelly.app/www/index.html
+2015-01-27 00:03:18.485 Travelly[4497:46781] locationManager::didFailWithError (null)
+2015-01-27 00:06:36.766 Travelly[5143:49894] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Data/Application/404C3F74-A21C-4930-83EC-9CAD32DBC0CA/Library/Cookies/Cookies.binarycookies
+2015-01-27 00:06:36.832 Travelly[5143:49894] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-27 00:06:36.832 Travelly[5143:49894] Multi-tasking -> Device: YES, App: YES
+2015-01-27 00:06:36.834 Travelly[5143:49894] Unlimited access to network resources
+2015-01-27 00:06:36.836 Travelly[5143:49894] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-27 00:06:36.989 Travelly[5143:49894] [CDVTimer][statusbar] 16.600013ms
+2015-01-27 00:06:36.991 Travelly[5143:49894] [CDVTimer][file] 2.040982ms
+2015-01-27 00:06:36.991 Travelly[5143:49894] [CDVTimer][TotalPluginStartup] 18.897057ms
+2015-01-27 00:06:37.053 Travelly[5143:49894] Resetting plugins due to page load.
+2015-01-27 00:06:37.237 Travelly[5143:49894] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Bundle/Application/264EB2A7-6237-4BA8-A0EA-B3E760165A8D/Travelly.app/www/index.html
+2015-01-27 00:07:48.170 Travelly[5143:49913] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2015-01-27 00:07:48.202 Travelly[5143:49894] THREAD WARNING: ['Geolocation'] took '10.222900' ms. Plugin should use a background thread.
+2015-01-27 00:07:48.204 Travelly[5143:49894] locationManager::didFailWithError (null)
+2015-01-27 00:09:30.920 Travelly[5774:52462] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Data/Application/6FA07E8A-2724-4A4D-9DBE-C8F52372BAFA/Library/Cookies/Cookies.binarycookies
+2015-01-27 00:09:30.985 Travelly[5774:52462] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-27 00:09:30.985 Travelly[5774:52462] Multi-tasking -> Device: YES, App: YES
+2015-01-27 00:09:30.987 Travelly[5774:52462] Unlimited access to network resources
+2015-01-27 00:09:30.989 Travelly[5774:52462] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-27 00:09:31.145 Travelly[5774:52462] [CDVTimer][statusbar] 16.704023ms
+2015-01-27 00:09:31.147 Travelly[5774:52462] [CDVTimer][file] 2.012968ms
+2015-01-27 00:09:31.147 Travelly[5774:52462] [CDVTimer][TotalPluginStartup] 18.985987ms
+2015-01-27 00:09:31.211 Travelly[5774:52462] Resetting plugins due to page load.
+2015-01-27 00:09:31.412 Travelly[5774:52462] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Bundle/Application/3977DA86-EE9B-4DFB-BEED-016727B854D1/Travelly.app/www/index.html
+2015-01-27 00:09:31.519 Travelly[5774:52462] locationManager::didFailWithError (null)
+2015-01-27 00:12:12.160 Travelly[6409:55234] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Data/Application/408F9AC5-D9A5-46B2-AAE4-4AD45FDEAC38/Library/Cookies/Cookies.binarycookies
+2015-01-27 00:12:12.232 Travelly[6409:55234] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-27 00:12:12.233 Travelly[6409:55234] Multi-tasking -> Device: YES, App: YES
+2015-01-27 00:12:12.234 Travelly[6409:55234] Unlimited access to network resources
+2015-01-27 00:12:12.236 Travelly[6409:55234] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-27 00:12:12.428 Travelly[6409:55234] [CDVTimer][statusbar] 18.556952ms
+2015-01-27 00:12:12.430 Travelly[6409:55234] [CDVTimer][file] 2.288043ms
+2015-01-27 00:12:12.430 Travelly[6409:55234] [CDVTimer][TotalPluginStartup] 21.166027ms
+2015-01-27 00:12:12.504 Travelly[6409:55234] Resetting plugins due to page load.
+2015-01-27 00:12:12.891 Travelly[6409:55234] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Bundle/Application/D686C45A-5C1E-4AF9-AF5B-C9A9E3DD13C8/Travelly.app/www/index.html
+2015-01-27 00:12:13.037 Travelly[6409:55234] locationManager::didFailWithError (null)
+2015-01-27 00:12:18.822 Travelly[6409:55234] THREAD WARNING: ['InAppBrowser'] took '131.124023' ms. Plugin should use a background thread.
+2015-01-27 00:12:37.501 Travelly[6409:55234] Camera.getPicture: source type 1 not available.
+2015-01-27 00:12:38.940 Travelly[6409:55234] THREAD WARNING: ['Camera'] took '1438.955078' ms. Plugin should use a background thread.
+2015-01-27 00:29:14.049 Travelly[7206:66139] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Data/Application/FB060F0A-8C9F-4894-B6B8-BBDAE23186C3/Library/Cookies/Cookies.binarycookies
+2015-01-27 00:29:14.119 Travelly[7206:66139] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-27 00:29:14.120 Travelly[7206:66139] Multi-tasking -> Device: YES, App: YES
+2015-01-27 00:29:14.121 Travelly[7206:66139] Unlimited access to network resources
+2015-01-27 00:29:14.123 Travelly[7206:66139] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-27 00:29:14.289 Travelly[7206:66139] [CDVTimer][statusbar] 17.039001ms
+2015-01-27 00:29:14.291 Travelly[7206:66139] [CDVTimer][file] 2.255023ms
+2015-01-27 00:29:14.292 Travelly[7206:66139] [CDVTimer][TotalPluginStartup] 19.594014ms
+2015-01-27 00:29:14.360 Travelly[7206:66139] Resetting plugins due to page load.
+2015-01-27 00:29:14.635 Travelly[7206:66139] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Bundle/Application/4D8D3353-CDDC-4518-87F6-FCE8FF9E5CD0/Travelly.app/www/index.html
+2015-01-27 00:29:14.808 Travelly[7206:66139] locationManager::didFailWithError (null)
+2015-01-27 00:29:18.408 Travelly[7206:66139] Camera.getPicture: source type 1 not available.
+2015-01-27 00:29:20.173 Travelly[7206:66139] THREAD WARNING: ['Camera'] took '1765.358887' ms. Plugin should use a background thread.

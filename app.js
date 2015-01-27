@@ -19,7 +19,7 @@ Ext.application({
 
     profiles: [ 'AndroidTablet' ],
     models: [ 'Picture' ],
-    stores: [ 'Pictures' ],
+    stores: [ 'Pictures', 'Settings' ],
     views: [ 'Main', 'NewPicture' ],
     controllers: [ 'Main', 'Places' ],
 
@@ -48,6 +48,19 @@ Ext.application({
         // Initialize the main view
         Ext.Viewport.add(Ext.create('Travelly.view.Main'));
 
+        var token = Travelly.app.getSetting('token');
+
+        var loginBtn = Ext.getCmp('loginBtn');
+        var logoutBtn = Ext.getCmp('logoutBtn');
+
+        if (token) {
+            loginBtn.setHidden(true);
+            logoutBtn.setHidden(false);
+        } else {
+            loginBtn.setHidden(false);
+            logoutBtn.setHidden(true);
+        }
+
         // if (Ext.browser.is.PhoneGap) {
         //     alert(device.uuid);
         // } else {
@@ -66,5 +79,29 @@ Ext.application({
                 }
             }
         );
+    },
+
+    globals: {
+        svcUrl: 'http://192.168.1.227:3000'
+    },
+
+    getGlobal: function(key)
+    {
+        if (this.globals[key] !== undefined) {
+            return this.globals[key];
+        }
+
+        return null;
+    },
+
+    getSetting: function(name)
+    {
+        return Ext.getStore('Settings').get(name);
+    },
+
+    setSetting: function(name, value)
+    {
+        Ext.getStore('Settings').set(name, value);
     }
+
 });
