@@ -206,9 +206,6 @@ Ext.define('Travelly.controller.Main', {
             lon: picture.get('lon')
         };
 
-        console.log('uploadParams');
-        console.log(uploadParams);
-
         var imageUrl = picture.get('url');
         fileOptions.fileKey = 'picture';
         fileOptions.fileName = imageUrl.substr(imageUrl.lastIndexOf('/') + 1);
