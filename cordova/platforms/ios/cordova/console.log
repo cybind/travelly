@@ -575,3 +575,22 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-01-27 00:29:14.808 Travelly[7206:66139] locationManager::didFailWithError (null)
 2015-01-27 00:29:18.408 Travelly[7206:66139] Camera.getPicture: source type 1 not available.
 2015-01-27 00:29:20.173 Travelly[7206:66139] THREAD WARNING: ['Camera'] took '1765.358887' ms. Plugin should use a background thread.
+2015-07-05 20:32:11.071 Travelly[71964:1963617] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Data/Application/8404209A-1D55-4483-AD69-967F22EF4169/Library/Cookies/Cookies.binarycookies
+2015-07-05 20:32:11.230 Travelly[71964:1963617] Apache Cordova native platform version 3.7.0 is starting.
+2015-07-05 20:32:11.230 Travelly[71964:1963617] Multi-tasking -> Device: YES, App: YES
+2015-07-05 20:32:11.237 Travelly[71964:1963617] Unlimited access to network resources
+2015-07-05 20:32:11.242 Travelly[71964:1963617] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-07-05 20:32:11.417 Travelly[71964:1963617] [CDVTimer][statusbar] 61.111987ms
+2015-07-05 20:32:11.421 Travelly[71964:1963617] [CDVTimer][file] 3.543019ms
+2015-07-05 20:32:11.421 Travelly[71964:1963617] [CDVTimer][TotalPluginStartup] 64.930022ms
+2015-07-05 20:32:11.501 Travelly[71964:1963617] Resetting plugins due to page load.
+2015-07-05 20:32:11.893 Travelly[71964:1963617] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Bundle/Application/7BCF6E5F-3887-4DDF-BDBE-8022677BF44C/Travelly.app/www/index.html
+2015-07-05 20:32:23.028 Travelly[71964:1963617] Camera.getPicture: source type 1 not available.
+2015-07-05 20:32:24.622 Travelly[71964:1963617] THREAD WARNING: ['Camera'] took '1594.291260' ms. Plugin should use a background thread.
