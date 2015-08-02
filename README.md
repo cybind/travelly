@@ -42,5 +42,8 @@ The cordova build command is a shorthand for the following:
 $ cordova prepare ios
 $ cordova compile ios
 ```
-To run our application in iOS emulator it is enough to execute the following command: `$ cordova emulate ios`
+To run our application in iOS emulator it is enough to execute the following command:
+```
+$ cordova emulate ios
+```
 And we see the same application in the emulator that we saw when run from XCode.
