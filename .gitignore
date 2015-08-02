@@ -5,3 +5,6 @@ archive/
 build/
 # SASS cache
 resources/sass/.sass-cache
+# Cordova files
+platforms/
+plugins/
